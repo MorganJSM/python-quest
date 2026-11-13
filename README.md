@@ -2,7 +2,7 @@
 
 A 10-minute, hands-on introduction to Python coding for children aged about 8–12.
 
-**Play it here:** https://YOUR-USERNAME.github.io/python-quest/
+**Play it here:** https://morganjsm.github.io/python-quest/
 
 Pip the snake guides you through six short missions. In each one you write and run real Python code in the browser, and you earn a star when you complete it.
 
